@@ -1,6 +1,9 @@
-#Test exercise
+# Test exercise
 Please do not store this test task into a public repository.
 Feel free email us if you have any questions regarding this test task.
+
+Vladyslav: 🙈🙉🙊 Oh, I am sorry, that's my code now :)
+Fell free to distribute this code as you want.
 
 ## Installation
 Run `composer install` to install phpunit and generate `vendor/autoload.php`.
